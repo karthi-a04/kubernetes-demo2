@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: kube-react-app
-          image: karthi-a04/kubernetes-demo2
+          image: karthianbazhagan4/kube-react-app
           ports:
             - containerPort: 80
           resources:
