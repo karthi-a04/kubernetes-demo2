@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: kube-react-app
-          image: karthianbazhagan4/kube-react-app:574e10f9
+          image: karthianbazhagan4/kube-react-app:36071746
           ports:
             - containerPort: 80
           resources:
